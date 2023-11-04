@@ -6,7 +6,7 @@
 I'm Manuel Garrido (@manugarri), this is my Github Profile.
 
 **🔭 I’m currently working on ...**
-- Data Overlord at [Daltix](www.daltix.com)
+- Data Overlord at [Carpe Data](https://www.carpe.io/)
 
 **💬 Ask me about ...**
 - Data
